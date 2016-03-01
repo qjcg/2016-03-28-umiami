@@ -1,0 +1,29 @@
+[id*='-windows'] ~ * {
+  background: lightblue;
+  padding: 1.5em;
+}
+
+[id*='-windows'] ~ ol {
+  padding: 2.0em;
+}
+
+[id*='-macosx'] ~ * {
+  background: lightgray;
+  padding: 1.5em;
+}
+
+[id*='-macosx'] ~ ol {
+  padding: 2.0em;
+}
+
+[id*='-linux'] ~ * {
+  background: lightyellow;
+  padding: 1.5em;
+}
+
+[id*='-linux'] ~ ol {
+  padding: 2.0em;
+}
+
+
+[id='r'] { display: none; }
