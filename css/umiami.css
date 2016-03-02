@@ -4,7 +4,7 @@
 }
 
 [id*='-windows'] ~ ol {
-  padding: 2.0em;
+  padding: 1.5em 2.5em;
 }
 
 [id*='-macosx'] ~ * {
@@ -13,7 +13,7 @@
 }
 
 [id*='-macosx'] ~ ol {
-  padding: 2.0em;
+  padding: 1.5em 2.5em;
 }
 
 [id*='-linux'] ~ * {
@@ -22,7 +22,7 @@
 }
 
 [id*='-linux'] ~ ol {
-  padding: 2.0em;
+  padding: 1.5em 2.5em;
 }
 
 
